@@ -19,7 +19,7 @@ Hi! I’m Aziz Aloui, a Web Developer and IoT student at ISIMM Monastir.<br>I bu
 [![](https://visitcount.itsvg.in/api?id=aziz4567&icon=9&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-🐍 Contribution Snake Animation
+🐍 Contribution 
 <div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> </div>
 📫 Contact Me
 <div align="center">
